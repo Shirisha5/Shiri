@@ -1,4 +1,4 @@
-<img src="https://github.com/Shirisha5/Shirisha5/blob/e37420505421b0ef03af73f023a9a1793a351ee2/github-banner.png" alt="banner that says Shirisha">
+<img src="https://github.com/Shirisha5/Shirisha5/blob/e37420505421b0ef03af73f023a9a1793a351ee2/github-header.png" alt="banner that says Shirisha">
 <h1 align="center">Learner, Can do attitude and Curious.</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
